@@ -12,3 +12,13 @@ $(document).ready(function() {
     });
 
 });
+
+function lit(question1){
+    
+    var rather;
+    if (question1 === singing){
+        return 3
+    }
+    
+    return 
+}
